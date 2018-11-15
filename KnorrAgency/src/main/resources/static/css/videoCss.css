@@ -1,0 +1,12 @@
+#bg{position:absolute;right:0;bottom:0;width:100%;height:100%;}
+#joinRoom{position:absolute; top:0;bottom:0;left:0;right:0;margin:auto;width:250px;height:250px}
+#localVideo{position:absolute; top:0;bottom:0;left:0;right:0;margin:auto;width:60%;height:80%;}
+#romveVideo1_0{position:absolute; top:4%;left:0;right:0;margin:auto;width:50%;height:60%;}
+#localVideo1{position:absolute; bottom:20px;left:0;right:0;margin:auto;width:25%; height:30%;}
+#romveVideo2_0{position:absolute; top:4%;left:5%; margin:auto;width:40%; height:60%;}
+#romveVideo2_1{position:absolute; top:4%;right:5%;margin:auto;width:40%; height:60%;}
+#localVideo2{position:absolute; bottom:3%;left:0;right:0;margin:auto;width:25%; height:30%;}
+#romveVideo3_0{position:absolute; top:8%;left:0; margin:auto;width:30%; height:50%;}
+#romveVideo3_1{position:absolute; top:8%;left:0;right:0;margin:auto;width:30%; height:50%;}
+#romveVideo3_2{position:absolute; top:8%;right:0;margin:auto;width:30%; height:50%;}
+#localVideo3{position:absolute; bottom:20px;left:0;right:0;margin:auto;width:25%; height:30%;}

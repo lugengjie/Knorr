@@ -1,0 +1,60 @@
+.has-border {
+    border: solid 8px #dfdfdf;
+}
+
+.has-border .fa {
+    &.fa-cloud-download{
+        background-color: $grid-item-close-btn-color;
+        color: $lightest-color;
+    }
+
+    &.fa-cloud-upload{
+        background-color: $grid-item-ban-btn-color;
+        color: $lightest-color;
+    }
+
+    &.fa-trash{
+        font-size: 13px !important;
+    }
+}
+
+.has-border .x-fa{
+    height: 20px;
+    width: 20px;
+    background: $grid-item-edit-btn-color;
+    line-height: 20px;
+    float: left;
+    margin-right: 10px;
+
+    &:before {
+        display: block;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    &.fa-close{
+        background-color: $grid-item-close-btn-color;
+        color: $lightest-color;
+    }
+
+    &.fa-ban{
+        background-color: $grid-item-ban-btn-color;
+        color: $lightest-color;
+    }
+
+    &.x-action-col-icon{
+        font-size: 13px !important;
+    }
+}
+
+.has-border .x-column-header {
+    line-height:25px;
+    font-family:Microsoft Yahei;
+    font-size:12px;
+    font-weight:bold;
+    color:#32A3A7;
+    background-color:#F5F5F5;
+}
+
+
+
